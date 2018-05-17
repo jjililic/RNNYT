@@ -1,5 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import { Text } from 'react-native';
 import * as globalStyles from '../styles/global';
 
 const AppText = ({ children, style, ...rest }) => (

@@ -18,10 +18,10 @@ Title.propTypes = {
 
 const style = StyleSheet.create({
     title: {
-        fontFamily: 'HelveticaNeue-CondensedBold',
-        fonstSize: 18,
+        fontFamily: 'Helvetica Neue-CondensedBold',
+        fontSize: 18,
         color: globalStyles.HEADER_TEXT_COLOR,
-        backgroundColor: '${globalStyles.BG_COLOR}99'
+        backgroundColor: `${globalStyles.BG_COLOR}99`
     }
 });
 
