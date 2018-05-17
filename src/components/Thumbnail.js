@@ -4,12 +4,15 @@ import {
     StyleSheet, Image
 } from 'react-native';
 
-const Thumbnail = ({ url }) => {
+import Title from './Title';
+
+const Thumbnail = ({ url, titleText }) => {
     return (
         <Image
             style={[styles.image]}
-            source={{ url: url }}
-        />
+            source={{ url: url }}>
+            <Title style={styles.title}>{titleText}</Title>
+        </Image>
     );
 };
 
@@ -21,6 +24,9 @@ const styles = StyleSheet.create({
     image: {
         height: 100,
         justifyContent: 'flex-end'
+    },
+    title: {
+        padding: 5
     }
 });
 
