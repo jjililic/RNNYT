@@ -9,7 +9,7 @@ const Byline = ({ date, author, location }) => (
     <View>
         <View style={styles.row}>
             <SmallText>
-                {date.toLocaleDateString()}
+                { /* TODO */ /* date.toLocaleDateString() */}
             </SmallText>
             <SmallText>
                 {author}
