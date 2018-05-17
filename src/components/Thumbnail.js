@@ -12,7 +12,7 @@ const Thumbnail = ({ url, titleText, accentColor, style }) => {
         backgroundColor: '${accentColor}77' // 약간의 투명도 추가
     };
 
-    const TitleComponent = <TitleText style={styles.title}>{titleText}</TitleText>;
+    const TitleComponent = <Title style={styles.title}>{titleText}</Title>;
 
     return (
         <View style={[styles.container, { borderColor: accentColor }, style]}>
