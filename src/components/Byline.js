@@ -42,3 +42,5 @@ const styles = StyleSheet.create({
         color: globalStyles.MUTED_COLOR
     }
 });
+
+export default Byline;
