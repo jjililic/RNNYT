@@ -11,14 +11,15 @@ export default class NewsItem extends React.Component {
 
     render() {
 
-        const { style, imageUrl, title, author, date, location, description } = this.props;
+        const { style, imageUrl, title, author, date, location, description, onPress } 
+            = this.props;
 
         const accentColor = globalStyles.ACCENT_COLORS[
             this.props.index % globalStyles.ACCENT_COLORS.length
         ];
 
         return (
-            <TouchableOpacity style={style}>
+            <TouchableOpacity style={style} onPress={onPress}>
                 <View>
                     <Thumbnail url={imageUrl}
                                 titleText={title}
@@ -45,7 +46,8 @@ NewsItem.propTypes = {
     author: PropTypes.string.isRequired,
     date: PropTypes.instanceOf(Date).isRequired,
     location: PropTypes.string,
-    description: PropTypes.string 
+    description: PropTypes.string,
+    onPress: PropTypes.func.isRequired
 };
 
 const styles = StyleSheet.create({

@@ -1,12 +1,13 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import {
-    ListView, StyleSheet, View
+    ListView, StyleSheet, View, Modal, TouchableOpacity
 } from 'react-native';
 
 import * as globalStyles from '../styles/global';
 
 import NewsItem from './NewsItem';
+import SmallText from './SmallText';
 
 export default class NewsFeed extends Component {
 
@@ -19,14 +20,53 @@ export default class NewsFeed extends Component {
         });
 
         this.state = {
-            dataSource: this.ds.cloneWithRows(props.news)
+            dataSource: this.ds.cloneWithRows(props.news),
+            modalVisible: false
         }
+
+        this.renderRow = this.renderRow.bind(this);
+
+        // Modal Open : this 컨텍스트를 이벤트 리스너에 바인딩
+        this.onModalOpen = this.onModalOpen.bind(this);
+        this.onModalClose = this.onModalClose.bind(this);
+    }
+
+    renderModal() {
+        return (
+            <Modal
+                visible={this.state.modalVisible}
+                onRequestClose={this.onModalClose}
+            >
+                <View style={styles.modalContent}>
+                    <TouchableOpacity
+                        onPress={this.onModalClose}
+                        style={styles.closeButton}
+                    >
+                        <SmallText>Close</SmallText>
+                    </TouchableOpacity>
+                </View>
+            </Modal>
+        );
+    }
+
+    onModalOpen() {
+        this.setState({
+            modalVisible: true
+        });
+    }
+
+    onModalClose() {
+        this.setState({
+            modalVisible: false
+        });
     }
 
     renderRow(rowData, ...rest) {
         const index = parseInt(rest[1], 10);
         return (
             <NewsItem
+                /* 터치시 뉴스 내용 Modal로 표시 */
+                onPress={() => this.onModalOpen()}
                 style={styles.newsItem}
                         index={index}
                         {...rowData}
@@ -43,6 +83,7 @@ export default class NewsFeed extends Component {
                     renderRow={this.renderRow}
                     style={this.props.listStyles}
                 />
+                {this.renderModal()}
             </View>
         );
     }
@@ -53,9 +94,24 @@ NewsFeed.propTypes = {
     listStyles: View.propTypes.style
 };
 
+/**
+ * styles
+ */
+
 const styles = StyleSheet.create({
     newsItem: {
         marginBottom: 20
+    },
+    modalContent: {
+        flex: 1,
+        justifyContent: 'center',
+        paddingTop: 20,
+        backgroundColor: globalStyles.BG_COLOR
+    },
+    closeButton: {
+        paddingVertical: 5,
+        paddingHorizontal: 10,
+        flexDirection: 'row'
     }
 });
 
