@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import {
-    ListView, StyleSheet, View, Modal, TouchableOpacity
+    ListView, StyleSheet, View, Modal, TouchableOpacity, WebView
 } from 'react-native';
 
 import * as globalStyles from '../styles/global';
@@ -44,14 +44,19 @@ export default class NewsFeed extends Component {
                     >
                         <SmallText>Close</SmallText>
                     </TouchableOpacity>
+                    <WebView
+                        scalesPageToFit
+                        source={{ uri: this.state.modalUrl }}
+                    />
                 </View>
             </Modal>
         );
     }
 
-    onModalOpen() {
+    onModalOpen(url) {
         this.setState({
-            modalVisible: true
+            modalVisible: true,
+            modalUrl: url
         });
     }
 
@@ -66,7 +71,7 @@ export default class NewsFeed extends Component {
         return (
             <NewsItem
                 /* 터치시 뉴스 내용 Modal로 표시 */
-                onPress={() => this.onModalOpen()}
+                onPress={() => this.onModalOpen(rowData.url)}
                 style={styles.newsItem}
                         index={index}
                         {...rowData}
@@ -134,7 +139,7 @@ NewsFeed.defaultProps = {
             date: new Date(),
             author: 'Facebook',
             location: 'Menlo Park, Califonia',
-            url: 'https://facebook.github.io/react-native'
+            url: 'https://www.daum.net'
 
         }
     ]
