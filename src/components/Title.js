@@ -16,9 +16,10 @@ Title.propTypes = {
     children: PropTypes.node
 };
 
-const style = StyleSheet.create({
+const styles = StyleSheet.create({
     title: {
-        fontFamily: 'Helvetica Neue-CondensedBold',
+        /* TODO fix fontFamily error */
+        /* fontFamily: 'Helvetica Neue-CondensedBold', */
         fontSize: 18,
         color: globalStyles.HEADER_TEXT_COLOR,
         backgroundColor: `${globalStyles.BG_COLOR}99`
