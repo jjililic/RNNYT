@@ -1,3 +1,8 @@
+/**
+ * 'Title' 함수형 컴포넌트
+ * 
+ */
+
 import React from 'react';
 import PropTypes from 'prop-types';
 import { StyleSheet, Text } from 'react-native';
@@ -18,7 +23,7 @@ Title.propTypes = {
 
 const styles = StyleSheet.create({
     title: {
-        /* TODO fix fontFamily error */
+        /* FIXME: fix fontFamily error */
         /* fontFamily: 'Helvetica Neue-CondensedBold', */
         fontSize: 18,
         color: globalStyles.HEADER_TEXT_COLOR,
