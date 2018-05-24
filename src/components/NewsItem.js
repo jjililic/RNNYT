@@ -44,7 +44,7 @@ NewsItem.propTypes = {
     imageUrl: PropTypes.string,
     title: PropTypes.string.isRequired,
     author: PropTypes.string.isRequired,
-    date: PropTypes.instanceOf(Date).isRequired,
+    date: PropTypes.string.isRequired,
     location: PropTypes.string,
     description: PropTypes.string,
     onPress: PropTypes.func.isRequired

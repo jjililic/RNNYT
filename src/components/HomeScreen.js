@@ -2,7 +2,9 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { TabBarIOS, Text } from 'react-native';
 
-import NewsFeed from './NewsFeed';
+//import NewsFeed from './NewsFeed';
+import NewsFeedContainer from '../containers/NewsFeedContainer';
+
 import Search from './Search';
 import * as globalStyles from '../styles/global';
 
@@ -27,7 +29,7 @@ export default class HomeScreen extends React.Component {
                     systemIcon={'featured'}
                     selected={this.state.tab === 'newsFeed'}
                     onPress={() => this.setState({ tab: 'newsFeed' })}>
-                    <NewsFeed/>
+                    <NewsFeedContainer/>
                 </TabBarIOS.Item>
                 <TabBarIOS.Item
                     systemIcon={'search'}

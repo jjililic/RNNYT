@@ -1,0 +1,2962 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2018 The New York Times Company. All Rights Reserved.",
+    "section": "technology",
+    "last_updated": "2018-05-22T20:57:09-04:00",
+    "num_results": 37,
+    "results": [
+        {
+            "section": "Technology",
+            "subsection": "",
+            "title": "Amazon Pushes Facial Recognition to Police. Critics See Surveillance Risk.",
+            "abstract": "More than two dozen civil rights organizations asked the tech giant to stop selling its image recognition system to law enforcement agencies.",
+            "url": "https://www.nytimes.com/2018/05/22/technology/amazon-facial-recognition.html",
+            "byline": "By NICK WINGFIELD",
+            "item_type": "Article",
+            "updated_date": "2018-05-22T14:43:53-04:00",
+            "created_date": "2018-05-22T10:00:04-04:00",
+            "published_date": "2018-05-22T10:00:04-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Computers and the Internet",
+                "Surveillance of Citizens by Government",
+                "Artificial Intelligence",
+                "Cameras",
+                "Privacy"
+            ],
+            "org_facet": [
+                "Amazon.com Inc"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/23/business/23AMAZON/23AMAZON-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Amazon’s campus in downtown Seattle. The American Civil Liberties Union and other civil rights groups are asking the company to stop selling its image-recognition system, Rekognition, to law enforcement authorities.",
+                    "copyright": "Ruth Fremson/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/23/business/23AMAZON/23AMAZON-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Amazon’s campus in downtown Seattle. The American Civil Liberties Union and other civil rights groups are asking the company to stop selling its image-recognition system, Rekognition, to law enforcement authorities.",
+                    "copyright": "Ruth Fremson/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/23/business/23AMAZON/merlin_97580653_a15dec1d-0c99-48aa-9d89-7198f3b8742c-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 123,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Amazon’s campus in downtown Seattle. The American Civil Liberties Union and other civil rights groups are asking the company to stop selling its image-recognition system, Rekognition, to law enforcement authorities.",
+                    "copyright": "Ruth Fremson/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/23/business/23AMAZON/23AMAZON-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Amazon’s campus in downtown Seattle. The American Civil Liberties Union and other civil rights groups are asking the company to stop selling its image-recognition system, Rekognition, to law enforcement authorities.",
+                    "copyright": "Ruth Fremson/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/23/business/23AMAZON/merlin_97580653_a15dec1d-0c99-48aa-9d89-7198f3b8742c-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1326,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Amazon’s campus in downtown Seattle. The American Civil Liberties Union and other civil rights groups are asking the company to stop selling its image-recognition system, Rekognition, to law enforcement authorities.",
+                    "copyright": "Ruth Fremson/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2IWdonh"
+        },
+        {
+            "section": "Technology",
+            "subsection": "",
+            "title": "Facebook’s Mark Zuckerberg Gets an Earful From the E.U.",
+            "abstract": "The chief executive had initially resisted meeting with European authorities, who have emerged as the world’s most assertive watchdog of the technology industry.",
+            "url": "https://www.nytimes.com/2018/05/22/technology/facebook-eu-parliament-mark-zuckerberg.html",
+            "byline": "By ADAM SATARIANO and MILAN SCHREUER",
+            "item_type": "Article",
+            "updated_date": "2018-05-22T16:25:06-04:00",
+            "created_date": "2018-05-22T13:06:06-04:00",
+            "published_date": "2018-05-22T13:06:06-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Computers and the Internet",
+                "Social Media",
+                "News and News Media",
+                "Legislatures and Parliaments",
+                "Law and Legislation",
+                "Privacy",
+                "Regulation and Deregulation of Industry"
+            ],
+            "org_facet": [
+                "Facebook Inc",
+                "European Parliament"
+            ],
+            "per_facet": [
+                "Zuckerberg, Mark E"
+            ],
+            "geo_facet": [
+                "Europe"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/business/EUFACEBOOK/EUFACEBOOK-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Facebook chief executive, Mark Zuckerberg, went to the European Parliament in Brussels on Tuesday to answer lawmakers’ questions over his social media company’s handling of user data.",
+                    "copyright": "Francois Lenoir/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/business/EUFACEBOOK/EUFACEBOOK-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Facebook chief executive, Mark Zuckerberg, went to the European Parliament in Brussels on Tuesday to answer lawmakers’ questions over his social media company’s handling of user data.",
+                    "copyright": "Francois Lenoir/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/business/EUFACEBOOK/merlin_138523116_aa0a40f2-b426-4b1a-bd30-be66a9459072-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 137,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Facebook chief executive, Mark Zuckerberg, went to the European Parliament in Brussels on Tuesday to answer lawmakers’ questions over his social media company’s handling of user data.",
+                    "copyright": "Francois Lenoir/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/business/EUFACEBOOK/EUFACEBOOK-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Facebook chief executive, Mark Zuckerberg, went to the European Parliament in Brussels on Tuesday to answer lawmakers’ questions over his social media company’s handling of user data.",
+                    "copyright": "Francois Lenoir/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/business/EUFACEBOOK/merlin_138523116_aa0a40f2-b426-4b1a-bd30-be66a9459072-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1479,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Facebook chief executive, Mark Zuckerberg, went to the European Parliament in Brussels on Tuesday to answer lawmakers’ questions over his social media company’s handling of user data.",
+                    "copyright": "Francois Lenoir/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/2GDod8J"
+        },
+        {
+            "section": "Style",
+            "subsection": "",
+            "title": "Instagram (Finally) Adds a Mute Feature",
+            "abstract": "So desperately needed.",
+            "url": "https://www.nytimes.com/2018/05/22/style/instagram-mute.html",
+            "byline": "By JONAH ENGEL BROMWICH",
+            "item_type": "Article",
+            "updated_date": "2018-05-22T14:48:44-04:00",
+            "created_date": "2018-05-22T14:48:44-04:00",
+            "published_date": "2018-05-22T14:48:44-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Social Media"
+            ],
+            "org_facet": [
+                "Instagram Inc"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/23/fashion/22MUTE/22MUTE-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "TFW bad posts are clogging up your feed. The new mute feature will help!",
+                    "copyright": "Michelle Gustafson for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/23/fashion/22MUTE/22MUTE-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "TFW bad posts are clogging up your feed. The new mute feature will help!",
+                    "copyright": "Michelle Gustafson for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/23/fashion/22MUTE/22MUTE-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "TFW bad posts are clogging up your feed. The new mute feature will help!",
+                    "copyright": "Michelle Gustafson for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/23/fashion/22MUTE/22MUTE-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "TFW bad posts are clogging up your feed. The new mute feature will help!",
+                    "copyright": "Michelle Gustafson for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/23/fashion/22MUTE/22MUTE-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "TFW bad posts are clogging up your feed. The new mute feature will help!",
+                    "copyright": "Michelle Gustafson for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2Lnv75G"
+        },
+        {
+            "section": "Technology",
+            "subsection": "Personal Tech",
+            "title": "How to Adjust Your Mac’s Spelling Controls",
+            "abstract": "Like many modern operating systems, macOS has a built-in spell checker that you can use or lose.",
+            "url": "https://www.nytimes.com/2018/05/22/technology/personaltech/mac-apple-turn-off-autocorrect.html",
+            "byline": "By J. D. BIERSDORFER",
+            "item_type": "Article",
+            "updated_date": "2018-05-22T05:00:06-04:00",
+            "created_date": "2018-05-22T05:00:05-04:00",
+            "published_date": "2018-05-22T05:00:05-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Spelling",
+                "Computers and the Internet",
+                "Mac OS (Operating System)",
+                "Word Processing"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/23/technology/personaltech/23techtipwebART/23techtipwebART-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "illustration",
+                    "caption": "You can turn off the macOS automatic-correction feature in the system's keyboard settings.",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/23/technology/personaltech/23techtipwebART/23techtipwebART-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "illustration",
+                    "caption": "You can turn off the macOS automatic-correction feature in the system's keyboard settings.",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/23/technology/personaltech/23techtipwebART/23techtipwebART-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 169,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "illustration",
+                    "caption": "You can turn off the macOS automatic-correction feature in the system's keyboard settings.",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/23/technology/personaltech/23techtipwebART/23techtipwebART-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "illustration",
+                    "caption": "You can turn off the macOS automatic-correction feature in the system's keyboard settings.",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/23/technology/personaltech/23techtipwebART/23techtipwebART-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 693,
+                    "width": 780,
+                    "type": "image",
+                    "subtype": "illustration",
+                    "caption": "You can turn off the macOS automatic-correction feature in the system's keyboard settings.",
+                    "copyright": "The New York Times"
+                }
+            ]
+        },
+        {
+            "section": "Technology",
+            "subsection": "",
+            "title": "Mark Zuckerberg to Apologize Again, This Time to European Parliament",
+            "abstract": "Facebook’s chief executive is expected to strike a conciliatory tone about user data on Tuesday when he speaks to members of the European Parliament.",
+            "url": "https://www.nytimes.com/2018/05/22/technology/mark-zuckerberg-apologize-european-parliament.html",
+            "byline": "By SHEERA FRENKEL",
+            "item_type": "Article",
+            "updated_date": "2018-05-22T05:37:31-04:00",
+            "created_date": "2018-05-22T00:01:04-04:00",
+            "published_date": "2018-05-22T00:01:04-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Social Media",
+                "Politics and Government",
+                "Legislatures and Parliaments",
+                "Privacy",
+                "Apologies",
+                "Data-Mining and Database Marketing"
+            ],
+            "org_facet": [
+                "European Parliament",
+                "Facebook Inc"
+            ],
+            "per_facet": [
+                "Zuckerberg, Mark E"
+            ],
+            "geo_facet": [
+                "Brussels (Belgium)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/business/22FACEBOOK/22FACEBOOK-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mark Zuckerberg, the chief executive of Facebook, is expected to stick to what has become a well-used script when he appears before European lawmakers in Brussels.",
+                    "copyright": "Tom Brenner/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/business/22FACEBOOK/22FACEBOOK-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mark Zuckerberg, the chief executive of Facebook, is expected to stick to what has become a well-used script when he appears before European lawmakers in Brussels.",
+                    "copyright": "Tom Brenner/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/business/22FACEBOOK/merlin_136677249_b03d68d1-8838-45a9-8eed-425b761da172-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mark Zuckerberg, the chief executive of Facebook, is expected to stick to what has become a well-used script when he appears before European lawmakers in Brussels.",
+                    "copyright": "Tom Brenner/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/business/22FACEBOOK/merlin_136677249_b03d68d1-8838-45a9-8eed-425b761da172-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mark Zuckerberg, the chief executive of Facebook, is expected to stick to what has become a well-used script when he appears before European lawmakers in Brussels.",
+                    "copyright": "Tom Brenner/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/business/22FACEBOOK/merlin_136677249_b03d68d1-8838-45a9-8eed-425b761da172-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mark Zuckerberg, the chief executive of Facebook, is expected to stick to what has become a well-used script when he appears before European lawmakers in Brussels.",
+                    "copyright": "Tom Brenner/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2IVkQyZ"
+        },
+        {
+            "section": "World",
+            "subsection": "Europe",
+            "title": "Is Facebook Just a Platform? A Lawyer to the Stars Says No",
+            "abstract": "Paul Tweed attracted star clients by suing publishers in Belfast, London and Dublin. He plans to hold the social media giants to the same standards.",
+            "url": "https://www.nytimes.com/2018/05/21/world/europe/facebook-libel-paul-tweed.html",
+            "byline": "By DAVID D. KIRKPATRICK",
+            "item_type": "Article",
+            "updated_date": "2018-05-22T09:26:17-04:00",
+            "created_date": "2018-05-21T23:45:05-04:00",
+            "published_date": "2018-05-21T23:45:05-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Suits and Litigation (Civil)",
+                "Libel and Slander",
+                "Freedom of Speech and Expression",
+                "Social Media",
+                "Regulation and Deregulation of Industry"
+            ],
+            "org_facet": [
+                "Facebook Inc",
+                "Cambridge Analytica",
+                "Twitter"
+            ],
+            "per_facet": [
+                "Paul Tweed"
+            ],
+            "geo_facet": [
+                "Belfast (Northern Ireland)",
+                "Dublin (Ireland)",
+                "Great Britain",
+                "Russia"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/23/world/europe/23tweed-1/xxtweed1-thumbStandard-v3.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "&ldquo;I say to Facebook, &lsquo;What is the difference between you and a national newspaper being responsible for the letters they publish on their letters page? Why do you have to be treated differently?&rdquo; said the lawyer Paul Tweed.",
+                    "copyright": "Brian Lawless/Press Association, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/23/world/europe/23tweed-1/xxtweed1-thumbLarge-v3.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "&ldquo;I say to Facebook, &lsquo;What is the difference between you and a national newspaper being responsible for the letters they publish on their letters page? Why do you have to be treated differently?&rdquo; said the lawyer Paul Tweed.",
+                    "copyright": "Brian Lawless/Press Association, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/23/world/europe/23tweed-1/merlin_137675088_226f49b9-867e-468d-bb66-0ab992ddcd35-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "&ldquo;I say to Facebook, &lsquo;What is the difference between you and a national newspaper being responsible for the letters they publish on their letters page? Why do you have to be treated differently?&rdquo; said the lawyer Paul Tweed.",
+                    "copyright": "Brian Lawless/Press Association, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/23/world/europe/23tweed-1/xxtweed1-mediumThreeByTwo210-v2.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "&ldquo;I say to Facebook, &lsquo;What is the difference between you and a national newspaper being responsible for the letters they publish on their letters page? Why do you have to be treated differently?&rdquo; said the lawyer Paul Tweed.",
+                    "copyright": "Brian Lawless/Press Association, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/23/world/europe/23tweed-1/merlin_137675088_226f49b9-867e-468d-bb66-0ab992ddcd35-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1372,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "&ldquo;I say to Facebook, &lsquo;What is the difference between you and a national newspaper being responsible for the letters they publish on their letters page? Why do you have to be treated differently?&rdquo; said the lawyer Paul Tweed.",
+                    "copyright": "Brian Lawless/Press Association, via Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/2GEA3PZ"
+        },
+        {
+            "section": "Business Day",
+            "subsection": "",
+            "title": "Tesla Model 3 Goes Upscale, and Base-Price Buyers Must Wait",
+            "abstract": "Elon Musk, the electric-car company’s chief, said Tesla would lose money and die if it began selling the cheapest version of its mass-market car too soon.",
+            "url": "https://www.nytimes.com/2018/05/21/business/tesla-elon-musk.html",
+            "byline": "By NEAL E. BOUDETTE",
+            "item_type": "Article",
+            "updated_date": "2018-05-21T20:37:32-04:00",
+            "created_date": "2018-05-21T20:37:32-04:00",
+            "published_date": "2018-05-21T20:37:32-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Electric and Hybrid Vehicles",
+                "Automobiles",
+                "Prices (Fares, Fees and Rates)",
+                "Production"
+            ],
+            "org_facet": [
+                "Tesla Motors Inc",
+                "Consumer Reports"
+            ],
+            "per_facet": [
+                "Musk, Elon"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/business/22tesla-1/22tesla-1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Tesla’s Model 3, between the larger Model S and Model X, in a San Diego showroom. So far the company has made only versions selling for $49,000 or more, but not the $35,000 base model.",
+                    "copyright": "Frank Duenzl/Picture-Alliance, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/business/22tesla-1/22tesla-1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Tesla’s Model 3, between the larger Model S and Model X, in a San Diego showroom. So far the company has made only versions selling for $49,000 or more, but not the $35,000 base model.",
+                    "copyright": "Frank Duenzl/Picture-Alliance, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/business/22tesla-1/22tesla-1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 131,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Tesla’s Model 3, between the larger Model S and Model X, in a San Diego showroom. So far the company has made only versions selling for $49,000 or more, but not the $35,000 base model.",
+                    "copyright": "Frank Duenzl/Picture-Alliance, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/business/22tesla-1/22tesla-1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Tesla’s Model 3, between the larger Model S and Model X, in a San Diego showroom. So far the company has made only versions selling for $49,000 or more, but not the $35,000 base model.",
+                    "copyright": "Frank Duenzl/Picture-Alliance, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/business/22tesla-1/merlin_138496281_90bfcd12-46ea-4b70-afcd-9d442a16ffd5-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Tesla’s Model 3, between the larger Model S and Model X, in a San Diego showroom. So far the company has made only versions selling for $49,000 or more, but not the $35,000 base model.",
+                    "copyright": "Frank Duenzl/Picture-Alliance, via Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/2GBaTBL"
+        },
+        {
+            "section": "Business Day",
+            "subsection": "",
+            "title": "G.E. Spins Off Railroad Business",
+            "abstract": "G.E.’s unit that manufactures locomotives will be combined with the Wabtec Corporation, in the first move under John Flannery to shed an entire business.",
+            "url": "https://www.nytimes.com/2018/05/21/business/ge-railroad-locomotives-wabtec.html",
+            "byline": "By STEVE LOHR",
+            "item_type": "Article",
+            "updated_date": "2018-05-21T16:15:45-04:00",
+            "created_date": "2018-05-21T15:27:34-04:00",
+            "published_date": "2018-05-21T15:27:34-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Mergers, Acquisitions and Divestitures",
+                "Railroads"
+            ],
+            "org_facet": [
+                "General Electric Company",
+                "Wabtec Corporation"
+            ],
+            "per_facet": [
+                "Flannery, John L"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/business/22DB-GE/22DB-GE-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "General Electric diesel locomotives at a manufacturing plant in Fort Worth. The company is spinning off its railroad business in an $11 billion deal.",
+                    "copyright": "Luke Sharrett/Bloomberg"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/business/22DB-GE/22DB-GE-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "General Electric diesel locomotives at a manufacturing plant in Fort Worth. The company is spinning off its railroad business in an $11 billion deal.",
+                    "copyright": "Luke Sharrett/Bloomberg"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/business/22DB-GE/merlin_138491262_a76c297d-e7fe-4270-8723-d3f2cdff9913-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 125,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "General Electric diesel locomotives at a manufacturing plant in Fort Worth. The company is spinning off its railroad business in an $11 billion deal.",
+                    "copyright": "Luke Sharrett/Bloomberg"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/business/22DB-GE/22DB-GE-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "General Electric diesel locomotives at a manufacturing plant in Fort Worth. The company is spinning off its railroad business in an $11 billion deal.",
+                    "copyright": "Luke Sharrett/Bloomberg"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/business/22DB-GE/merlin_138491262_a76c297d-e7fe-4270-8723-d3f2cdff9913-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1352,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "General Electric diesel locomotives at a manufacturing plant in Fort Worth. The company is spinning off its railroad business in an $11 billion deal.",
+                    "copyright": "Luke Sharrett/Bloomberg"
+                }
+            ],
+            "short_url": "https://nyti.ms/2GFy7Xg"
+        },
+        {
+            "section": "Technology",
+            "subsection": "",
+            "title": "Former Uber Engineer’s Lawsuit Claims Sexual Harassment",
+            "abstract": "As Uber works to remake its tarnished image, the company is still dealing with the fallout from its past misdeeds.",
+            "url": "https://www.nytimes.com/2018/05/21/technology/uber-sexual-harassment-lawsuit.html",
+            "byline": "By DAISUKE WAKABAYASHI",
+            "item_type": "Article",
+            "updated_date": "2018-05-21T17:38:16-04:00",
+            "created_date": "2018-05-21T14:54:25-04:00",
+            "published_date": "2018-05-21T14:54:25-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Sexual Harassment",
+                "Suits and Litigation (Civil)",
+                "Human Resources",
+                "Workplace Environment",
+                "Car Services and Livery Cabs"
+            ],
+            "org_facet": [
+                "Uber Technologies Inc"
+            ],
+            "per_facet": [
+                "Avendano, Ingrid"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/business/22UBER/merlin_120081062_2b352dee-bfa5-4373-a9e7-3e09b5674f6a-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Uber headquarters in San Francisco, where a former employee filed a suit Monday saying the company’s human resources department did nothing to stop co-workers from sexually harassing her.",
+                    "copyright": "Ryan Young for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/business/22UBER/merlin_120081062_2b352dee-bfa5-4373-a9e7-3e09b5674f6a-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Uber headquarters in San Francisco, where a former employee filed a suit Monday saying the company’s human resources department did nothing to stop co-workers from sexually harassing her.",
+                    "copyright": "Ryan Young for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/business/22UBER/merlin_120081062_2b352dee-bfa5-4373-a9e7-3e09b5674f6a-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Uber headquarters in San Francisco, where a former employee filed a suit Monday saying the company’s human resources department did nothing to stop co-workers from sexually harassing her.",
+                    "copyright": "Ryan Young for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/business/22UBER/merlin_120081062_2b352dee-bfa5-4373-a9e7-3e09b5674f6a-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Uber headquarters in San Francisco, where a former employee filed a suit Monday saying the company’s human resources department did nothing to stop co-workers from sexually harassing her.",
+                    "copyright": "Ryan Young for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/business/22UBER/merlin_120081062_2b352dee-bfa5-4373-a9e7-3e09b5674f6a-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Uber headquarters in San Francisco, where a former employee filed a suit Monday saying the company’s human resources department did nothing to stop co-workers from sexually harassing her.",
+                    "copyright": "Ryan Young for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2IZP6sD"
+        },
+        {
+            "section": "Health",
+            "subsection": "",
+            "title": "New Cancer Treatments Lie Hidden Under Mountains of Paperwork",
+            "abstract": "Guideposts to powerful treatments may be buried in the nation’s medical records. But there is no easy way to gather those records or to get them into a usable format.",
+            "url": "https://www.nytimes.com/2018/05/21/health/medical-records-cancer.html",
+            "byline": "By GINA KOLATA",
+            "item_type": "Article",
+            "updated_date": "2018-05-22T04:43:28-04:00",
+            "created_date": "2018-05-21T10:53:50-04:00",
+            "published_date": "2018-05-21T10:53:50-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Genetics and Heredity",
+                "Tumors",
+                "Cancer",
+                "Breast Cancer"
+            ],
+            "org_facet": [
+                "Flatiron Health Inc",
+                "National Cancer Institute"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/science/22RECORDS/22RECORDS-thumbStandard-v2.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Janice Chang"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/science/22RECORDS/22RECORDS-thumbLarge-v2.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Janice Chang"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/science/22RECORDS/merlin_138337206_8e70ea50-ca2b-4c71-a7b8-8fad1ef03a9a-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Janice Chang"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/science/22RECORDS/merlin_138337206_8e70ea50-ca2b-4c71-a7b8-8fad1ef03a9a-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Janice Chang"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/science/22RECORDS/merlin_138337206_8e70ea50-ca2b-4c71-a7b8-8fad1ef03a9a-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Janice Chang"
+                }
+            ],
+            "short_url": "https://nyti.ms/2GBqS2s"
+        },
+        {
+            "section": "Technology",
+            "subsection": "Personal Tech",
+            "title": "Finding Your Contacts in the New Gmail",
+            "abstract": "Google’s recent revamp of its mail service has moved a few old features to new places, but you don’t have to look far.",
+            "url": "https://www.nytimes.com/2018/05/21/technology/personaltech/finding-your-contacts-in-the-new-gmail.html",
+            "byline": "By J. D. BIERSDORFER",
+            "item_type": "Article",
+            "updated_date": "2018-05-21T05:00:05-04:00",
+            "created_date": "2018-05-21T05:00:04-04:00",
+            "published_date": "2018-05-21T05:00:04-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Computers and the Internet",
+                "E-Mail",
+                "Web Browsers"
+            ],
+            "org_facet": [
+                "Google Inc"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/technology/personaltech/22techtipwebART/22techtipwebART-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "illustration",
+                    "caption": "In the updated version of Gmail for the desktop, you can get to your contacts from the Apps panel on the right side of the window, or by hovering the mouse cursor over a sender’s name until a contact card pops up.",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/technology/personaltech/22techtipwebART/22techtipwebART-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "illustration",
+                    "caption": "In the updated version of Gmail for the desktop, you can get to your contacts from the Apps panel on the right side of the window, or by hovering the mouse cursor over a sender’s name until a contact card pops up.",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/technology/personaltech/22techtipwebART/22techtipwebART-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 128,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "illustration",
+                    "caption": "In the updated version of Gmail for the desktop, you can get to your contacts from the Apps panel on the right side of the window, or by hovering the mouse cursor over a sender’s name until a contact card pops up.",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/technology/personaltech/22techtipwebART/22techtipwebART-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "illustration",
+                    "caption": "In the updated version of Gmail for the desktop, you can get to your contacts from the Apps panel on the right side of the window, or by hovering the mouse cursor over a sender’s name until a contact card pops up.",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/technology/personaltech/22techtipwebART/22techtipwebART-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1380,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "illustration",
+                    "caption": "In the updated version of Gmail for the desktop, you can get to your contacts from the Apps panel on the right side of the window, or by hovering the mouse cursor over a sender’s name until a contact card pops up.",
+                    "copyright": "The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2IZ7MZK"
+        },
+        {
+            "section": "Technology",
+            "subsection": "",
+            "title": "Germany Acts to Tame Facebook, Learning From Its Own History of Hate",
+            "abstract": "A country taps its past as it leads the way on one of the most pressing issues facing modern democracies: how to regulate the world’s biggest social network.",
+            "url": "https://www.nytimes.com/2018/05/19/technology/facebook-deletion-center-germany.html",
+            "byline": "By KATRIN BENNHOLD",
+            "item_type": "Article",
+            "updated_date": "2018-05-22T12:08:17-04:00",
+            "created_date": "2018-05-19T11:06:24-04:00",
+            "published_date": "2018-05-19T11:06:24-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Data-Mining and Database Marketing",
+                "Cyberharassment",
+                "Politics and Government",
+                "Refugees and Displaced Persons",
+                "Social Media",
+                "Privacy",
+                "Regulation and Deregulation of Industry",
+                "Discrimination",
+                "Fringe Groups and Movements"
+            ],
+            "org_facet": [
+                "Facebook Inc"
+            ],
+            "per_facet": [
+                "Billen, Gerd",
+                "Jourova, Vera"
+            ],
+            "geo_facet": [
+                "Germany"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/20/business/00fbgermany-1/00fbgermany-1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "At a Facebook deletion center in Berlin, the agents, who work for a third-party firm, remove illegal hate speech from the social network.",
+                    "copyright": "Gordon Welters for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/20/business/00fbgermany-1/00fbgermany-1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "At a Facebook deletion center in Berlin, the agents, who work for a third-party firm, remove illegal hate speech from the social network.",
+                    "copyright": "Gordon Welters for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/20/business/00fbgermany-1/00fbgermany-1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 117,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "At a Facebook deletion center in Berlin, the agents, who work for a third-party firm, remove illegal hate speech from the social network.",
+                    "copyright": "Gordon Welters for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/20/business/00fbgermany-1/00fbgermany-1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "At a Facebook deletion center in Berlin, the agents, who work for a third-party firm, remove illegal hate speech from the social network.",
+                    "copyright": "Gordon Welters for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/20/business/00fbgermany-1/merlin_134523486_198fefca-dcc9-4aed-a7be-bcb2db2eef56-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "At a Facebook deletion center in Berlin, the agents, who work for a third-party firm, remove illegal hate speech from the social network.",
+                    "copyright": "Gordon Welters for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2GzlywD"
+        },
+        {
+            "section": "Technology",
+            "subsection": "",
+            "title": "Me and My Numb Thumb: A Tale of Tech, Texts and Tendons",
+            "abstract": "Continually texting and emailing from her smartphone strained the tendons in this tech reporter’s phone thumb, which turns out to be an increasingly common condition.",
+            "url": "https://www.nytimes.com/2018/05/19/technology/smartphone-overuse-numb-thumb.html",
+            "byline": "By NELLIE BOWLES",
+            "item_type": "Article",
+            "updated_date": "2018-05-21T12:42:28-04:00",
+            "created_date": "2018-05-19T06:00:04-04:00",
+            "published_date": "2018-05-19T06:00:04-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Text Messaging",
+                "Smartphones",
+                "Addiction (Psychology)",
+                "Anxiety and Stress",
+                "Tendinosis",
+                "Acupuncture"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/20/technology/20NUMBTHUMB/20NUMBTHUMB-thumbStandard.gif",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Kimberly Salt"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/20/technology/20NUMBTHUMB/20NUMBTHUMB-thumbLarge.gif",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Kimberly Salt"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/20/technology/20NUMBTHUMB/20NUMBTHUMB-articleInline.gif",
+                    "format": "Normal",
+                    "height": 144,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Kimberly Salt"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/20/technology/20NUMBTHUMB/20NUMBTHUMB-mediumThreeByTwo210.gif",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Kimberly Salt"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/20/technology/20NUMBTHUMB/20NUMBTHUMB-superJumbo.gif",
+                    "format": "superJumbo",
+                    "height": 1552,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Kimberly Salt"
+                }
+            ],
+            "short_url": "https://nyti.ms/2k982ar"
+        },
+        {
+            "section": "Style",
+            "subsection": "",
+            "title": "Death of a Biohacker",
+            "abstract": "Aaron Traywick envisioned a future in which self-taught scientists would cure diseases and bend the human body to their will.",
+            "url": "https://www.nytimes.com/2018/05/19/style/biohacker-death-aaron-traywick.html",
+            "byline": "By JONAH ENGEL BROMWICH",
+            "item_type": "Article",
+            "updated_date": "2018-05-22T14:39:48-04:00",
+            "created_date": "2018-05-19T06:00:01-04:00",
+            "published_date": "2018-05-19T06:00:01-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Genetic Engineering",
+                "Drugs (Pharmaceuticals)"
+            ],
+            "org_facet": [
+                "Ascendance Biomedical"
+            ],
+            "per_facet": [
+                "Traywick, Aaron"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/13/style/13biohacker-1/13biohacker-1-thumbStandard.png",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Photo illustration by Tracy Ma/The New York Times; Ford Fischer (Traywick)"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/13/style/13biohacker-1/13biohacker-1-thumbLarge.png",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Photo illustration by Tracy Ma/The New York Times; Ford Fischer (Traywick)"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/13/style/13biohacker-1/13biohacker-1-articleInline.png",
+                    "format": "Normal",
+                    "height": 107,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Photo illustration by Tracy Ma/The New York Times; Ford Fischer (Traywick)"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/13/style/13biohacker-1/13biohacker-1-mediumThreeByTwo210.png",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Photo illustration by Tracy Ma/The New York Times; Ford Fischer (Traywick)"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/13/style/13biohacker-1/13biohacker-1-superJumbo.gif",
+                    "format": "superJumbo",
+                    "height": 576,
+                    "width": 1024,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Photo illustration by Tracy Ma/The New York Times; Ford Fischer (Traywick)"
+                }
+            ],
+            "short_url": "https://nyti.ms/2IxlNdD"
+        },
+        {
+            "section": "Technology",
+            "subsection": "",
+            "title": "Hundreds of Apps Can Empower Stalkers to Track Their Victims",
+            "abstract": "Widely available services offer a range of spying abilities, including tracking people’s phones and harvesting their texts. As survivors seek help, the legal and technical hurdles are many.",
+            "url": "https://www.nytimes.com/2018/05/19/technology/phone-apps-stalking.html",
+            "byline": "By JENNIFER VALENTINO-DeVRIES",
+            "item_type": "Article",
+            "updated_date": "2018-05-21T12:41:40-04:00",
+            "created_date": "2018-05-19T03:00:05-04:00",
+            "published_date": "2018-05-19T03:00:05-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Mobile Applications",
+                "Cheating",
+                "Adultery",
+                "Stalking (Crime)",
+                "Domestic Violence",
+                "Dating and Relationships",
+                "Android (Operating System)",
+                "Wiretapping and Other Eavesdropping Devices and Methods"
+            ],
+            "org_facet": [
+                "Apple Inc"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/18/us/18stalkerware6/18stalkerware6-thumbStandard-v2.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "More than 200 apps and services offer would-be stalkers a variety of electronic capabilities, including basic location tracking, harvesting texts and secretly recording video.",
+                    "copyright": "Drew Jordan/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/18/us/18stalkerware6/18stalkerware6-thumbLarge-v2.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "More than 200 apps and services offer would-be stalkers a variety of electronic capabilities, including basic location tracking, harvesting texts and secretly recording video.",
+                    "copyright": "Drew Jordan/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/18/us/18stalkerware6/merlin_138354531_de298b5c-4501-4e07-9044-50a402a528be-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 102,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "More than 200 apps and services offer would-be stalkers a variety of electronic capabilities, including basic location tracking, harvesting texts and secretly recording video.",
+                    "copyright": "Drew Jordan/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/18/us/18stalkerware6/18stalkerware6-mediumThreeByTwo210-v2.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "More than 200 apps and services offer would-be stalkers a variety of electronic capabilities, including basic location tracking, harvesting texts and secretly recording video.",
+                    "copyright": "Drew Jordan/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/18/us/18stalkerware6/merlin_138354531_de298b5c-4501-4e07-9044-50a402a528be-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1103,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "More than 200 apps and services offer would-be stalkers a variety of electronic capabilities, including basic location tracking, harvesting texts and secretly recording video.",
+                    "copyright": "Drew Jordan/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2GvyzaJ"
+        },
+        {
+            "section": "Business Day",
+            "subsection": "",
+            "title": "Tech Hit This Small Town Hard. Now, Locals Hope It Will Fuel a Revival.",
+            "abstract": "Holywell, a town in Wales with dozens of local retailers, has struggled with the impacts of online shopping. It is applying technology to try and keep its shops open.",
+            "url": "https://www.nytimes.com/2018/05/18/business/wales-tech-retail-shopping-square.html",
+            "byline": "By PRASHANT S. RAO",
+            "item_type": "Article",
+            "updated_date": "2018-05-18T16:39:28-04:00",
+            "created_date": "2018-05-18T15:04:48-04:00",
+            "published_date": "2018-05-18T15:04:48-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Shopping and Retail",
+                "Wireless Communications",
+                "E-Commerce",
+                "Relocation of Business",
+                "Mobile Commerce and Payments",
+                "Small Business"
+            ],
+            "org_facet": [
+                "Square Inc"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Holywell (Wales)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/11/business/00holywell-1/00holywell-1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Holywell’s High Street is a shell of its former self, as e-commerce and bigger cities increasingly draw shoppers.",
+                    "copyright": "Tom Jamieson for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/11/business/00holywell-1/00holywell-1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Holywell’s High Street is a shell of its former self, as e-commerce and bigger cities increasingly draw shoppers.",
+                    "copyright": "Tom Jamieson for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/11/business/00holywell-1/00holywell-1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 118,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Holywell’s High Street is a shell of its former self, as e-commerce and bigger cities increasingly draw shoppers.",
+                    "copyright": "Tom Jamieson for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/11/business/00holywell-1/00holywell-1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Holywell’s High Street is a shell of its former self, as e-commerce and bigger cities increasingly draw shoppers.",
+                    "copyright": "Tom Jamieson for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/11/business/00holywell-1/00holywell-1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Holywell’s High Street is a shell of its former self, as e-commerce and bigger cities increasingly draw shoppers.",
+                    "copyright": "Tom Jamieson for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2IulyzH"
+        },
+        {
+            "section": "Arts",
+            "subsection": "Art & Design",
+            "title": "New Youth Center at American Indian Museum Focuses on Invention",
+            "abstract": "At the National Museum of the American Indian, imagiNATIONS emphasizes native innovations in math, science and engineering.",
+            "url": "https://www.nytimes.com/2018/05/18/arts/design/national-museum-of-the-american-indian-new-youth-center.html",
+            "byline": "By LAUREL GRAEBER",
+            "item_type": "Article",
+            "updated_date": "2018-05-18T15:26:27-04:00",
+            "created_date": "2018-05-18T14:47:50-04:00",
+            "published_date": "2018-05-18T14:47:50-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Native Americans",
+                "Museums",
+                "Imaginations Activity Center",
+                "Inventions and Patents"
+            ],
+            "org_facet": [
+                "National Museum of the American Indian",
+                "Smithsonian Institution"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/18/arts/18nativeamerican1/merlin_138199101_822e5c95-2f16-4905-92d7-5cba0fe46a48-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The main activity space of the imagiNATIONS Activity Center at the Smithsonian’s National Museum of the American Indian includes a 26-foot-long grass-rope suspension bridge made by the Quechua of Peru, descendants of the Inca.",
+                    "copyright": "5th Avenue Digital"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/18/arts/18nativeamerican1/merlin_138199101_822e5c95-2f16-4905-92d7-5cba0fe46a48-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The main activity space of the imagiNATIONS Activity Center at the Smithsonian’s National Museum of the American Indian includes a 26-foot-long grass-rope suspension bridge made by the Quechua of Peru, descendants of the Inca.",
+                    "copyright": "5th Avenue Digital"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/18/arts/18nativeamerican1/merlin_138199101_822e5c95-2f16-4905-92d7-5cba0fe46a48-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The main activity space of the imagiNATIONS Activity Center at the Smithsonian’s National Museum of the American Indian includes a 26-foot-long grass-rope suspension bridge made by the Quechua of Peru, descendants of the Inca.",
+                    "copyright": "5th Avenue Digital"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/18/arts/18nativeamerican1/merlin_138199101_822e5c95-2f16-4905-92d7-5cba0fe46a48-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The main activity space of the imagiNATIONS Activity Center at the Smithsonian’s National Museum of the American Indian includes a 26-foot-long grass-rope suspension bridge made by the Quechua of Peru, descendants of the Inca.",
+                    "copyright": "5th Avenue Digital"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/18/arts/18nativeamerican1/merlin_138199101_822e5c95-2f16-4905-92d7-5cba0fe46a48-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The main activity space of the imagiNATIONS Activity Center at the Smithsonian’s National Museum of the American Indian includes a 26-foot-long grass-rope suspension bridge made by the Quechua of Peru, descendants of the Inca.",
+                    "copyright": "5th Avenue Digital"
+                }
+            ],
+            "short_url": "https://nyti.ms/2k6Xngk"
+        },
+        {
+            "section": "Technology",
+            "subsection": "",
+            "title": "When Thousands Filled a Hilton Ballroom to Ponder the Future of Bitcoin",
+            "abstract": "A gathering in New York this week for Consensus 2018, a blockchain-themed event, had all of the trappings of a modern business conference — a sign that the once-fringe world is increasingly going mainstream.",
+            "url": "https://www.nytimes.com/2018/05/18/technology/consensus-bitcoin-conference-photos.html",
+            "byline": "By SAM HODGSON",
+            "item_type": "Article",
+            "updated_date": "2018-05-19T08:44:44-04:00",
+            "created_date": "2018-05-18T13:24:31-04:00",
+            "published_date": "2018-05-18T13:24:31-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Bitcoin (Currency)",
+                "Conventions, Fairs and Trade Shows"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/19/business/19CRYPTOPHOTO-11/19CRYPTOPHOTO-11-thumbStandard-v2.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/19/business/19CRYPTOPHOTO-11/19CRYPTOPHOTO-11-thumbLarge-v2.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/19/business/19CRYPTOPHOTO-11/merlin_138260985_b4685410-a941-4be7-9e08-df8c8a66b0e3-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/19/business/19CRYPTOPHOTO-11/merlin_138260985_b4685410-a941-4be7-9e08-df8c8a66b0e3-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/19/business/19CRYPTOPHOTO-11/merlin_138260985_b4685410-a941-4be7-9e08-df8c8a66b0e3-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                }
+            ],
+            "short_url": "https://nyti.ms/2IvQy2B"
+        },
+        {
+            "section": "Technology",
+            "subsection": "Personal Tech",
+            "title": "Turning Phone Videos Into GIFs",
+            "abstract": "Several apps and services make it easy to turn that perfect video snippet into an animated GIF file that you can share by text message or email.",
+            "url": "https://www.nytimes.com/2018/05/18/technology/personaltech/how-to-turn-phone-videos-into-gifs.html",
+            "byline": "By J. D. BIERSDORFER",
+            "item_type": "Article",
+            "updated_date": "2018-05-18T09:00:04-04:00",
+            "created_date": "2018-05-18T09:00:04-04:00",
+            "published_date": "2018-05-18T09:00:04-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Video Recordings, Downloads and Streaming",
+                "Text Messaging",
+                "Mobile Applications",
+                "Smartphones"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/19/technology/personaltech/19techtipwebART/19techtipwebART-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "illustration",
+                    "caption": "Apps like GIF Maker for Android are inexpensive and make it easy to convert a video clip to an animated GIF in just a few steps.",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/19/technology/personaltech/19techtipwebART/19techtipwebART-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "illustration",
+                    "caption": "Apps like GIF Maker for Android are inexpensive and make it easy to convert a video clip to an animated GIF in just a few steps.",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/19/technology/personaltech/19techtipwebART/19techtipwebART-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 157,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "illustration",
+                    "caption": "Apps like GIF Maker for Android are inexpensive and make it easy to convert a video clip to an animated GIF in just a few steps.",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/19/technology/personaltech/19techtipwebART/19techtipwebART-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "illustration",
+                    "caption": "Apps like GIF Maker for Android are inexpensive and make it easy to convert a video clip to an animated GIF in just a few steps.",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/19/technology/personaltech/19techtipwebART/19techtipwebART-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1186,
+                    "width": 1438,
+                    "type": "image",
+                    "subtype": "illustration",
+                    "caption": "Apps like GIF Maker for Android are inexpensive and make it easy to convert a video clip to an animated GIF in just a few steps.",
+                    "copyright": "The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2GsxWOV"
+        },
+        {
+            "section": "Technology",
+            "subsection": "",
+            "title": "Kevin’s Week in Tech: Crypto Tokin’",
+            "abstract": "A weeklong blockchain conference in New York, changes at Uber, a “transparency report” from Facebook, and more.",
+            "url": "https://www.nytimes.com/2018/05/18/technology/kevins-week-in-tech-crypto-tokin.html",
+            "byline": "By KEVIN ROOSE",
+            "item_type": "Article",
+            "updated_date": "2018-05-18T09:00:01-04:00",
+            "created_date": "2018-05-18T09:00:01-04:00",
+            "published_date": "2018-05-18T09:00:01-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Virtual Currency",
+                "Computers and the Internet",
+                "Arbitration, Conciliation and Mediation"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/02/17/business/dealbookemail/17db-newsletter-bitcoin/merlin_68586008_c11a4d66-be97-43d6-b989-8f8328cf5aa2-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "George Frey/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/02/17/business/dealbookemail/17db-newsletter-bitcoin/merlin_68586008_c11a4d66-be97-43d6-b989-8f8328cf5aa2-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "George Frey/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/02/17/business/dealbookemail/17db-newsletter-bitcoin/merlin_68586008_c11a4d66-be97-43d6-b989-8f8328cf5aa2-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "George Frey/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/02/17/business/dealbookemail/17db-newsletter-bitcoin/merlin_68586008_c11a4d66-be97-43d6-b989-8f8328cf5aa2-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "George Frey/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/02/17/business/dealbookemail/17db-newsletter-bitcoin/merlin_68586008_c11a4d66-be97-43d6-b989-8f8328cf5aa2-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1364,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "George Frey/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/2k8OrXS"
+        },
+        {
+            "section": "Technology",
+            "subsection": "",
+            "title": "Cleared of Spying for China, She Still Doesn’t Have Her Job Back",
+            "abstract": "Three years ago, Sherry Chen, a hydrologist working for the National Weather Service, had charges against her dropped. A judge says she should be able to return to work.",
+            "url": "https://www.nytimes.com/2018/05/17/technology/sherry-chen-national-weather-service.html",
+            "byline": "By NICOLE PERLROTH",
+            "item_type": "Article",
+            "updated_date": "2018-05-20T09:35:33-04:00",
+            "created_date": "2018-05-17T18:08:14-04:00",
+            "published_date": "2018-05-17T18:08:14-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Chinese-Americans",
+                "Espionage and Intelligence Services",
+                "Labor and Jobs"
+            ],
+            "org_facet": [
+                "Commerce Department",
+                "National Weather Service"
+            ],
+            "per_facet": [
+                "Chen, Xiafen"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/18/business/18Chen/18Chen-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An independent board ruled that the Commerce Department must reinstate Sherry Chen to her job at the National Weather Service, after a judge suggested that officials had buried exculpatory evidence.",
+                    "copyright": "Maddie McGarvey for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/18/business/18Chen/18Chen-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An independent board ruled that the Commerce Department must reinstate Sherry Chen to her job at the National Weather Service, after a judge suggested that officials had buried exculpatory evidence.",
+                    "copyright": "Maddie McGarvey for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/18/business/18Chen/merlin_107177329_45a48d2d-25ee-43d6-b58d-a38e54e3e6ff-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An independent board ruled that the Commerce Department must reinstate Sherry Chen to her job at the National Weather Service, after a judge suggested that officials had buried exculpatory evidence.",
+                    "copyright": "Maddie McGarvey for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/18/business/18Chen/merlin_107177329_45a48d2d-25ee-43d6-b58d-a38e54e3e6ff-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An independent board ruled that the Commerce Department must reinstate Sherry Chen to her job at the National Weather Service, after a judge suggested that officials had buried exculpatory evidence.",
+                    "copyright": "Maddie McGarvey for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/18/business/18Chen/merlin_107177329_45a48d2d-25ee-43d6-b58d-a38e54e3e6ff-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An independent board ruled that the Commerce Department must reinstate Sherry Chen to her job at the National Weather Service, after a judge suggested that officials had buried exculpatory evidence.",
+                    "copyright": "Maddie McGarvey for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2k82z3J"
+        },
+        {
+            "section": "Technology",
+            "subsection": "",
+            "title": "PayPal Agrees to $2.2 Billion Deal for European Payments Start-Up iZettle",
+            "abstract": "The Silicon Valley digital payments company reached a deal for iZettle, which is Europe’s answer to the mobile payments company Square.",
+            "url": "https://www.nytimes.com/2018/05/17/technology/paypal-izettle.html",
+            "byline": "By MICHAEL J. de la MERCED and NATHANIEL POPPER",
+            "item_type": "Article",
+            "updated_date": "2018-05-17T18:15:23-04:00",
+            "created_date": "2018-05-17T17:36:16-04:00",
+            "published_date": "2018-05-17T17:36:16-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Mobile Commerce and Payments",
+                "Mergers, Acquisitions and Divestitures",
+                "Small Business",
+                "Computers and the Internet",
+                "Start-ups"
+            ],
+            "org_facet": [
+                "PayPal",
+                "iZettle AB"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/18/business/18PAYPAL/18PAYPAL-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "IZettle began as a maker of products like credit card readers, but it has expanded its offerings to analytics software and even small business loans.",
+                    "copyright": "Linus Sundahl-Djerf for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/18/business/18PAYPAL/18PAYPAL-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "IZettle began as a maker of products like credit card readers, but it has expanded its offerings to analytics software and even small business loans.",
+                    "copyright": "Linus Sundahl-Djerf for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/18/business/18PAYPAL/merlin_101397910_772db338-5993-4adc-8c66-096db0cace89-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "IZettle began as a maker of products like credit card readers, but it has expanded its offerings to analytics software and even small business loans.",
+                    "copyright": "Linus Sundahl-Djerf for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/18/business/18PAYPAL/merlin_101397910_772db338-5993-4adc-8c66-096db0cace89-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "IZettle began as a maker of products like credit card readers, but it has expanded its offerings to analytics software and even small business loans.",
+                    "copyright": "Linus Sundahl-Djerf for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/18/business/18PAYPAL/merlin_101397910_772db338-5993-4adc-8c66-096db0cace89-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "IZettle began as a maker of products like credit card readers, but it has expanded its offerings to analytics software and even small business loans.",
+                    "copyright": "Linus Sundahl-Djerf for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2IOj0Qw"
+        },
+        {
+            "section": "Science",
+            "subsection": "",
+            "title": "In Virtual Reality, How Much Body Do You Need?",
+            "abstract": "It might be as little as a pair of hands and feet, researchers in Japan found after recording subjects who wore an Oculus Rift headset.",
+            "url": "https://www.nytimes.com/2018/05/17/science/virtual-reality-body.html",
+            "byline": "By STEPH YIN",
+            "item_type": "Article",
+            "updated_date": "2018-05-17T14:11:18-04:00",
+            "created_date": "2018-05-17T14:11:18-04:00",
+            "published_date": "2018-05-17T14:11:18-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Virtual Reality (Computers)",
+                "Research",
+                "Brain"
+            ],
+            "org_facet": [
+                "Scientific Reports (Journal)"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/science/18TB-VIRTUAL/18TB-VIRTUAL-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Toyohashi University of Technology"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/science/18TB-VIRTUAL/18TB-VIRTUAL-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Toyohashi University of Technology"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/science/18TB-VIRTUAL/18TB-VIRTUAL-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 126,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Toyohashi University of Technology"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/science/18TB-VIRTUAL/18TB-VIRTUAL-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Toyohashi University of Technology"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/22/science/18TB-VIRTUAL/merlin_138294306_9256ba29-b612-45c4-8667-3b958c999271-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 954,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Toyohashi University of Technology"
+                }
+            ],
+            "short_url": "https://nyti.ms/2Ivj0BI"
+        },
+        {
+            "section": "Health",
+            "subsection": "",
+            "title": "‘Will You Be My Emergency Contact?’ Takes On a Whole New Meaning",
+            "abstract": "Researchers mined medical records to build family trees they hope could help advance medical research, but the privacy implications worry some bioethicists.",
+            "url": "https://www.nytimes.com/2018/05/17/health/emergency-contacts-genetic-research.html",
+            "byline": "By HEATHER MURPHY",
+            "item_type": "Article",
+            "updated_date": "2018-05-17T12:40:32-04:00",
+            "created_date": "2018-05-17T12:40:32-04:00",
+            "published_date": "2018-05-17T12:40:32-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Medicine and Health",
+                "Hospitals",
+                "Genetics and Heredity",
+                "Privacy",
+                "Research"
+            ],
+            "org_facet": [
+                "Cell (Journal)"
+            ],
+            "per_facet": [
+                "Polubriaginof, Fernanda",
+                "Tatonetti, Nicholas"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/20/science/20EMERGENCY/18EMERGENCY-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Did you know that your emergency contact&rsquo;s data could be mined for medical research?",
+                    "copyright": "Brendan Smialowski/Agence France-Presse &mdash; Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/20/science/20EMERGENCY/18EMERGENCY-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Did you know that your emergency contact&rsquo;s data could be mined for medical research?",
+                    "copyright": "Brendan Smialowski/Agence France-Presse &mdash; Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/20/science/20EMERGENCY/18EMERGENCY-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Did you know that your emergency contact&rsquo;s data could be mined for medical research?",
+                    "copyright": "Brendan Smialowski/Agence France-Presse &mdash; Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/20/science/20EMERGENCY/18EMERGENCY-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Did you know that your emergency contact&rsquo;s data could be mined for medical research?",
+                    "copyright": "Brendan Smialowski/Agence France-Presse &mdash; Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/20/science/20EMERGENCY/merlin_138291186_356d07e9-49a1-4b53-b346-101a677dc090-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1367,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Did you know that your emergency contact&rsquo;s data could be mined for medical research?",
+                    "copyright": "Brendan Smialowski/Agence France-Presse &mdash; Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/2GoIyOZ"
+        },
+        {
+            "section": "World",
+            "subsection": "Europe",
+            "title": "Thanks, Internet: Estonian Town Gets Cannabis Leaf as Its Emblem",
+            "abstract": "Online voters overwhelmingly favored putting the marijuana plant on the flag of Kanepi, a municipality that has a tradition of growing hemp.",
+            "url": "https://www.nytimes.com/2018/05/17/world/europe/estonia-marijuana-flag.html",
+            "byline": "By KIMIKO de FREYTAS-TAMURA",
+            "item_type": "Article",
+            "updated_date": "2018-05-17T10:01:44-04:00",
+            "created_date": "2018-05-17T10:01:44-04:00",
+            "published_date": "2018-05-17T10:01:44-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Flags, Emblems and Insignia",
+                "Marijuana",
+                "Crowdsourcing (Internet)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Kanepi (Estonia)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/18/world/18estonia/18estonia-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The cannabis leaf design for the flag and emblem of Kanepi, Estonia. A town official defended the decision as a “very democratic” process, even though the number of online voters in favor of it — about 12,000 — easily surpassed the municipality’s population of 5,000.",
+                    "copyright": "Ints Kalnins/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/18/world/18estonia/18estonia-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The cannabis leaf design for the flag and emblem of Kanepi, Estonia. A town official defended the decision as a “very democratic” process, even though the number of online voters in favor of it — about 12,000 — easily surpassed the municipality’s population of 5,000.",
+                    "copyright": "Ints Kalnins/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/18/world/18estonia/merlin_138220272_3db6d256-c099-4d94-b2bf-38c6ce863641-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 134,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The cannabis leaf design for the flag and emblem of Kanepi, Estonia. A town official defended the decision as a “very democratic” process, even though the number of online voters in favor of it — about 12,000 — easily surpassed the municipality’s population of 5,000.",
+                    "copyright": "Ints Kalnins/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/18/world/18estonia/18estonia-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The cannabis leaf design for the flag and emblem of Kanepi, Estonia. A town official defended the decision as a “very democratic” process, even though the number of online voters in favor of it — about 12,000 — easily surpassed the municipality’s population of 5,000.",
+                    "copyright": "Ints Kalnins/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/18/world/18estonia/merlin_138220272_3db6d256-c099-4d94-b2bf-38c6ce863641-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1444,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The cannabis leaf design for the flag and emblem of Kanepi, Estonia. A town official defended the decision as a “very democratic” process, even though the number of online voters in favor of it — about 12,000 — easily surpassed the municipality’s population of 5,000.",
+                    "copyright": "Ints Kalnins/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/2Ivejrv"
+        },
+        {
+            "section": "Business Day",
+            "subsection": "DealBook",
+            "title": "China, Signaling Thaw With U.S. Over Trade, Approves Toshiba Microchip Deal",
+            "abstract": "Chinese antitrust officials allowed the Japanese company to sell a majority stake in its chip unit to an American-led group, a prelude to an easing of tensions between Washington and Beijing.",
+            "url": "https://www.nytimes.com/2018/05/17/business/dealbook/toshiba-bain-china-trade.html",
+            "byline": "By CARLOS TEJADA and MICHAEL J. de la MERCED",
+            "item_type": "Article",
+            "updated_date": "2018-05-17T21:33:18-04:00",
+            "created_date": "2018-05-17T09:04:07-04:00",
+            "published_date": "2018-05-17T09:04:07-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "International Trade and World Market",
+                "Antitrust Laws and Competition Issues",
+                "Mergers, Acquisitions and Divestitures"
+            ],
+            "org_facet": [
+                "Bain Capital",
+                "TOSHIBA Corporation",
+                "ZTE Corp"
+            ],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "China"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/18/business/18toshiba-sub/18toshiba-sub-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Toshiba once symbolized Japan's technological might, but it has more recently been scrambling to survive.",
+                    "copyright": "Akio Kon/Bloomberg"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/18/business/18toshiba-sub/18toshiba-sub-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Toshiba once symbolized Japan's technological might, but it has more recently been scrambling to survive.",
+                    "copyright": "Akio Kon/Bloomberg"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/18/business/18toshiba-sub/18toshiba-sub-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 126,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Toshiba once symbolized Japan's technological might, but it has more recently been scrambling to survive.",
+                    "copyright": "Akio Kon/Bloomberg"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/18/business/18toshiba-sub/18toshiba-sub-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Toshiba once symbolized Japan's technological might, but it has more recently been scrambling to survive.",
+                    "copyright": "Akio Kon/Bloomberg"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/18/business/18toshiba-sub/merlin_138289467_3805ab53-002e-4545-8fbd-39016a35d269-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Toshiba once symbolized Japan's technological might, but it has more recently been scrambling to survive.",
+                    "copyright": "Akio Kon/Bloomberg"
+                }
+            ],
+            "short_url": "https://nyti.ms/2IPRan4"
+        },
+        {
+            "section": "Technology",
+            "subsection": "Personal Tech",
+            "title": "New Ways to Delete Old Files",
+            "abstract": "Last month’s update to Windows 10 added new tools for automatically and manually clearing clutter from your hard drive.",
+            "url": "https://www.nytimes.com/2018/05/17/technology/personaltech/new-ways-to-delete-old-files.html",
+            "byline": "By J. D. BIERSDORFER",
+            "item_type": "Article",
+            "updated_date": "2018-05-17T09:00:04-04:00",
+            "created_date": "2018-05-17T09:00:03-04:00",
+            "published_date": "2018-05-17T09:00:03-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Windows (Operating System)",
+                "Computers and the Internet",
+                "Laptop Computers",
+                "Desktop Computers"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/18/technology/personaltech/18techtipwebART/18techtipwebART-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "illustration",
+                    "caption": "In the Storage Sense settings, you can decide how often you want Windows to self clean, or you can use the \"Free up space now\" option to instantly dig up and delete superfluous files.",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/18/technology/personaltech/18techtipwebART/18techtipwebART-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "illustration",
+                    "caption": "In the Storage Sense settings, you can decide how often you want Windows to self clean, or you can use the \"Free up space now\" option to instantly dig up and delete superfluous files.",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/18/technology/personaltech/18techtipwebART/18techtipwebART-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 153,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "illustration",
+                    "caption": "In the Storage Sense settings, you can decide how often you want Windows to self clean, or you can use the \"Free up space now\" option to instantly dig up and delete superfluous files.",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/18/technology/personaltech/18techtipwebART/18techtipwebART-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "illustration",
+                    "caption": "In the Storage Sense settings, you can decide how often you want Windows to self clean, or you can use the \"Free up space now\" option to instantly dig up and delete superfluous files.",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/18/technology/personaltech/18techtipwebART/18techtipwebART-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 705,
+                    "width": 900,
+                    "type": "image",
+                    "subtype": "illustration",
+                    "caption": "In the Storage Sense settings, you can decide how often you want Windows to self clean, or you can use the \"Free up space now\" option to instantly dig up and delete superfluous files.",
+                    "copyright": "The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2Gr1ZXe"
+        },
+        {
+            "section": "Style",
+            "subsection": "",
+            "title": "Why Am I Crying All the Time?",
+            "abstract": "Homecoming videos, GoFundMe campaigns, “This Is Us” tweets — the internet wants not just your eyeballs, but your tears.",
+            "url": "https://www.nytimes.com/2018/05/17/style/why-do-i-cry-so-much.html",
+            "byline": "By KATHERINE ROSMAN",
+            "item_type": "Article",
+            "updated_date": "2018-05-17T11:07:57-04:00",
+            "created_date": "2018-05-17T00:00:04-04:00",
+            "published_date": "2018-05-17T00:00:04-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Crying",
+                "Video Recordings, Downloads and Streaming"
+            ],
+            "org_facet": [
+                "GoFundMe"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/fashion/17CRYING/17CRYING-thumbStandard.gif",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Margaret Riegel"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/fashion/17CRYING/17CRYING-thumbLarge.gif",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Margaret Riegel"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/fashion/17CRYING/17CRYING-articleInline.gif",
+                    "format": "Normal",
+                    "height": 191,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Margaret Riegel"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/fashion/17CRYING/17CRYING-mediumThreeByTwo210.gif",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Margaret Riegel"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/fashion/17CRYING/17CRYING-superJumbo.gif",
+                    "format": "superJumbo",
+                    "height": 2014,
+                    "width": 2000,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Margaret Riegel"
+                }
+            ],
+            "short_url": "https://nyti.ms/2L6Mtn9"
+        },
+        {
+            "section": "Technology",
+            "subsection": "",
+            "title": "Senate Democrats Win Vote on Net Neutrality, a Centerpiece of 2018 Strategy",
+            "abstract": "The rare victory for Democrats is sure to be short-lived in Congress, but they plan to use the issue to get young voters engaged in midterm elections.",
+            "url": "https://www.nytimes.com/2018/05/16/technology/net-neutrality-senate.html",
+            "byline": "By CECILIA KANG",
+            "item_type": "Article",
+            "updated_date": "2018-05-16T17:49:10-04:00",
+            "created_date": "2018-05-16T16:38:11-04:00",
+            "published_date": "2018-05-16T16:38:11-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Politics and Government",
+                "Net Neutrality",
+                "Law and Legislation",
+                "Regulation and Deregulation of Industry",
+                "Voting and Voters",
+                "Midterm Elections (2018)"
+            ],
+            "org_facet": [
+                "Federal Communications Commission"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/business/17netneutrality-1/17netneutrality-1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Democrats plan to lean on the issue of net neutrality to get young voters engaged in the midterm elections.",
+                    "copyright": "Kyle Grillot/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/business/17netneutrality-1/17netneutrality-1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Democrats plan to lean on the issue of net neutrality to get young voters engaged in the midterm elections.",
+                    "copyright": "Kyle Grillot/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/business/17netneutrality-1/merlin_138212046_d68b330c-3c32-4345-bcf4-6d1fd7170a89-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 123,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Democrats plan to lean on the issue of net neutrality to get young voters engaged in the midterm elections.",
+                    "copyright": "Kyle Grillot/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/business/17netneutrality-1/17netneutrality-1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Democrats plan to lean on the issue of net neutrality to get young voters engaged in the midterm elections.",
+                    "copyright": "Kyle Grillot/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/business/17netneutrality-1/merlin_138212046_d68b330c-3c32-4345-bcf4-6d1fd7170a89-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1328,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Democrats plan to lean on the issue of net neutrality to get young voters engaged in the midterm elections.",
+                    "copyright": "Kyle Grillot/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/2GoDNVI"
+        },
+        {
+            "section": "Technology",
+            "subsection": "Personal Tech",
+            "title": "Google’s File on Me Was Huge. Here’s Why It Wasn’t as Creepy as My Facebook Data.",
+            "abstract": "Google collects far more information about us than Facebook. But the Google data that our tech columnist downloaded on himself contained fewer surprises and was more easily deleted.",
+            "url": "https://www.nytimes.com/2018/05/16/technology/personaltech/google-personal-data-facebook.html",
+            "byline": "By BRIAN X. CHEN",
+            "item_type": "Article",
+            "updated_date": "2018-05-16T16:36:04-04:00",
+            "created_date": "2018-05-16T16:36:04-04:00",
+            "published_date": "2018-05-16T16:36:04-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Social Media",
+                "Computers and the Internet",
+                "Online Advertising",
+                "Android (Operating System)",
+                "Mobile Applications",
+                "Archives and Records",
+                "Corporate Social Responsibility"
+            ],
+            "org_facet": [
+                "Google Inc",
+                "Facebook Inc"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/business/17Techfix-silo/17Techfix-silo-thumbStandard-v3.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Minh Uong/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/business/17Techfix-silo/17Techfix-silo-thumbLarge-v3.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Minh Uong/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/business/17Techfix-silo/17Techfix-silo-articleInline-v3.jpg",
+                    "format": "Normal",
+                    "height": 230,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Minh Uong/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/business/17Techfix-silo/17Techfix-silo-mediumThreeByTwo210-v3.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Minh Uong/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/business/17Techfix-silo/17Techfix-silo-superJumbo-v3.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 1695,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Minh Uong/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2L66rOX"
+        },
+        {
+            "section": "Technology",
+            "subsection": "",
+            "title": "The Entire Economy Is MoviePass Now. Enjoy It While You Can.",
+            "abstract": "Inspired by Silicon Valley’s hyper-growth, companies elsewhere are burning cash in hopes of being the next big thing.",
+            "url": "https://www.nytimes.com/2018/05/16/technology/moviepass-economy-startups.html",
+            "byline": "By KEVIN ROOSE",
+            "item_type": "Article",
+            "updated_date": "2018-05-17T08:52:39-04:00",
+            "created_date": "2018-05-16T14:51:20-04:00",
+            "published_date": "2018-05-16T14:51:20-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Venture Capital",
+                "Computers and the Internet",
+                "E-Commerce",
+                "Prices (Fares, Fees and Rates)",
+                "Start-ups"
+            ],
+            "org_facet": [
+                "MoviePass Inc"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/business/17Roose.print/17Roose.print-thumbStandard.gif",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Glenn Harvey"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/business/17Roose.print/merlin_138197655_676241b8-67e3-4499-b081-510bac0cfcca-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Glenn Harvey"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/business/17Roose.print/17Roose.print-articleInline.gif",
+                    "format": "Normal",
+                    "height": 125,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Glenn Harvey"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/business/17Roose.print/merlin_138197655_676241b8-67e3-4499-b081-510bac0cfcca-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Glenn Harvey"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/business/17Roose.print/17Roose.print-superJumbo.gif",
+                    "format": "superJumbo",
+                    "height": 673,
+                    "width": 1024,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Glenn Harvey"
+                }
+            ]
+        },
+        {
+            "section": "Business Day",
+            "subsection": "",
+            "title": "Killing Spurs Didi, China’s Ride-Hailing Giant, to Revamp Its Service",
+            "abstract": "Didi Chuxing said it would overhaul its app, as well as safety and security practices, after the death of a passenger focused attention on the company.",
+            "url": "https://www.nytimes.com/2018/05/16/business/didi-chuxing-passenger-killed.html",
+            "byline": "By ELSIE CHEN and MENGXUE OU",
+            "item_type": "Article",
+            "updated_date": "2018-05-16T13:31:22-04:00",
+            "created_date": "2018-05-16T13:31:22-04:00",
+            "published_date": "2018-05-16T13:31:22-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Traffic Accidents and Safety",
+                "#MeToo Movement",
+                "Sexual Harassment",
+                "Car-Pooling and Ride-Sharing",
+                "Murders, Attempted Murders and Homicides",
+                "Sex Crimes"
+            ],
+            "org_facet": [
+                "Didi Chuxing"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "China"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/business/17didi/17didi-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Chinese ride-hailing company Didi Chuxing says it has 450 million users. It has expanded at a breakneck pace within China and around the world.",
+                    "copyright": "Carlos Jasso/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/business/17didi/17didi-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Chinese ride-hailing company Didi Chuxing says it has 450 million users. It has expanded at a breakneck pace within China and around the world.",
+                    "copyright": "Carlos Jasso/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/business/17didi/17didi-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 126,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Chinese ride-hailing company Didi Chuxing says it has 450 million users. It has expanded at a breakneck pace within China and around the world.",
+                    "copyright": "Carlos Jasso/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/business/17didi/17didi-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Chinese ride-hailing company Didi Chuxing says it has 450 million users. It has expanded at a breakneck pace within China and around the world.",
+                    "copyright": "Carlos Jasso/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/business/17didi/merlin_137235249_d3c4a52b-b5db-4ea8-bf6f-48ed4b97a9c1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Chinese ride-hailing company Didi Chuxing says it has 450 million users. It has expanded at a breakneck pace within China and around the world.",
+                    "copyright": "Carlos Jasso/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/2L4BHhj"
+        },
+        {
+            "section": "Technology",
+            "subsection": "",
+            "title": "Mark Zuckerberg to Meet European Parliament Members Over Facebook’s Data Use",
+            "abstract": "Mr. Zuckerberg’s planned visit to Brussels, following the C.E.O.’s testimony before Congress last month, highlights global concern over data privacy.",
+            "url": "https://www.nytimes.com/2018/05/16/technology/zuckerberg-europe-data-cambridge-analytica.html",
+            "byline": "By PRASHANT S. RAO, SHEERA FRENKEL and MILAN SCHREUER",
+            "item_type": "Article",
+            "updated_date": "2018-05-16T14:37:00-04:00",
+            "created_date": "2018-05-16T12:18:55-04:00",
+            "published_date": "2018-05-16T12:18:55-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Social Media",
+                "Data-Mining and Database Marketing",
+                "Legislatures and Parliaments"
+            ],
+            "org_facet": [
+                "Facebook Inc",
+                "European Parliament"
+            ],
+            "per_facet": [
+                "Tajani, Antonio",
+                "Zuckerberg, Mark E"
+            ],
+            "geo_facet": [
+                "Europe"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/16/business/00EUZUCK/00EUZUCK-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mark Zuckerberg, Facebook’s chief executive, continues to face questions about how the company safeguards its users’ personal data.",
+                    "copyright": "Leah Millis/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/16/business/00EUZUCK/00EUZUCK-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mark Zuckerberg, Facebook’s chief executive, continues to face questions about how the company safeguards its users’ personal data.",
+                    "copyright": "Leah Millis/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/16/business/00EUZUCK/merlin_138221118_53cf02b3-da3c-45ea-9317-adfaa033184b-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 125,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mark Zuckerberg, Facebook’s chief executive, continues to face questions about how the company safeguards its users’ personal data.",
+                    "copyright": "Leah Millis/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/16/business/00EUZUCK/00EUZUCK-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mark Zuckerberg, Facebook’s chief executive, continues to face questions about how the company safeguards its users’ personal data.",
+                    "copyright": "Leah Millis/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/16/business/00EUZUCK/merlin_138221118_53cf02b3-da3c-45ea-9317-adfaa033184b-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1346,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mark Zuckerberg, Facebook’s chief executive, continues to face questions about how the company safeguards its users’ personal data.",
+                    "copyright": "Leah Millis/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/2Gq7wNN"
+        },
+        {
+            "section": "Technology",
+            "subsection": "Personal Tech",
+            "title": "What Improved Tech Means for Electric, Self-Driving and Flying Cars",
+            "abstract": "Jack Ewing, who covers autos and economics for The Times, says a “Jetsons”-like future is still far off, even as cars become even more computerized.",
+            "url": "https://www.nytimes.com/2018/05/16/technology/personaltech/electric-self-driving-flying-cars.html",
+            "byline": "By THE NEW YORK TIMES",
+            "item_type": "Article",
+            "updated_date": "2018-05-16T09:48:37-04:00",
+            "created_date": "2018-05-16T09:48:37-04:00",
+            "published_date": "2018-05-16T09:48:37-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Automobiles",
+                "Driverless and Semiautonomous Vehicles",
+                "Fuel Efficiency",
+                "Computers and the Internet",
+                "Flying Cars",
+                "Engines"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Ewing, Jack"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/business/17TECHUSING-1/17TECHUSING-1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jack Ewing covers economics and autos from Frankfurt. “The transition to autonomous, networked driving is not likely to be smooth,” he said.",
+                    "copyright": "Felix Brüggemann for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/business/17TECHUSING-1/17TECHUSING-1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jack Ewing covers economics and autos from Frankfurt. “The transition to autonomous, networked driving is not likely to be smooth,” he said.",
+                    "copyright": "Felix Brüggemann for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/business/17TECHUSING-1/merlin_137531934_af822021-a72a-4f5a-a8b9-1c58b9a798f1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jack Ewing covers economics and autos from Frankfurt. “The transition to autonomous, networked driving is not likely to be smooth,” he said.",
+                    "copyright": "Felix Brüggemann for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/business/17TECHUSING-1/merlin_137531934_af822021-a72a-4f5a-a8b9-1c58b9a798f1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jack Ewing covers economics and autos from Frankfurt. “The transition to autonomous, networked driving is not likely to be smooth,” he said.",
+                    "copyright": "Felix Brüggemann for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/business/17TECHUSING-1/merlin_137531934_af822021-a72a-4f5a-a8b9-1c58b9a798f1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jack Ewing covers economics and autos from Frankfurt. “The transition to autonomous, networked driving is not likely to be smooth,” he said.",
+                    "copyright": "Felix Brüggemann for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2GojYOa"
+        },
+        {
+            "section": "Technology",
+            "subsection": "Personal Tech",
+            "title": "How to Record Your iPhone Screen",
+            "abstract": "In iOS 11, you can make a video of what’s happening directly on your phone at the moment — without having to install an extra app.",
+            "url": "https://www.nytimes.com/2018/05/16/technology/personaltech/how-to-record-your-iphone-screen.html",
+            "byline": "By J. D. BIERSDORFER",
+            "item_type": "Article",
+            "updated_date": "2018-05-16T09:00:04-04:00",
+            "created_date": "2018-05-16T09:00:04-04:00",
+            "published_date": "2018-05-16T09:00:04-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Computer and Video Games",
+                "Smartphones",
+                "Video Recordings, Downloads and Streaming",
+                "iPhone"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/technology/personaltech/17techtipwebART/17techtipwebART-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "illustration",
+                    "caption": "To prepare to capture the action on your iPhone screen in a video, edit your settings to add the Screen Recording button to your iOS Control Center, left, so that you have a Record button to tap when the time comes.",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/technology/personaltech/17techtipwebART/17techtipwebART-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "illustration",
+                    "caption": "To prepare to capture the action on your iPhone screen in a video, edit your settings to add the Screen Recording button to your iOS Control Center, left, so that you have a Record button to tap when the time comes.",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/technology/personaltech/17techtipwebART/17techtipwebART-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 163,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "illustration",
+                    "caption": "To prepare to capture the action on your iPhone screen in a video, edit your settings to add the Screen Recording button to your iOS Control Center, left, so that you have a Record button to tap when the time comes.",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/technology/personaltech/17techtipwebART/17techtipwebART-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "illustration",
+                    "caption": "To prepare to capture the action on your iPhone screen in a video, edit your settings to add the Screen Recording button to your iOS Control Center, left, so that you have a Record button to tap when the time comes.",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/technology/personaltech/17techtipwebART/17techtipwebART-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1762,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "illustration",
+                    "caption": "To prepare to capture the action on your iPhone screen in a video, edit your settings to add the Screen Recording button to your iOS Control Center, left, so that you have a Record button to tap when the time comes.",
+                    "copyright": "The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2Gn1n4U"
+        },
+        {
+            "section": "Technology",
+            "subsection": "",
+            "title": "New Privacy Rules Could Make This Woman One of Tech’s Most Important Regulators",
+            "abstract": "With Europe’s sweeping new data privacy law, Ireland is in the middle of a standoff between regulators and tech companies.",
+            "url": "https://www.nytimes.com/2018/05/16/technology/gdpr-helen-dixon.html",
+            "byline": "By ADAM SATARIANO",
+            "item_type": "Article",
+            "updated_date": "2018-05-16T06:26:45-04:00",
+            "created_date": "2018-05-16T05:00:17-04:00",
+            "published_date": "2018-05-16T05:00:17-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Data-Mining and Database Marketing",
+                "Regulation and Deregulation of Industry",
+                "Social Media",
+                "Privacy",
+                "Computers and the Internet",
+                "Fines (Penalties)",
+                "Antitrust Laws and Competition Issues"
+            ],
+            "org_facet": [
+                "Facebook Inc",
+                "European Union"
+            ],
+            "per_facet": [
+                "Dixon, Helen (Irish Regulator)"
+            ],
+            "geo_facet": [
+                "Ireland"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/15/business/00WATCHDOG-1-alpha/00WATCHDOG-1-alpha-thumbStandard-v4.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Helen Dixon, Ireland’s data protection commissioner, will soon gain vast new authority to investigate and fine an array of technology giants with regional headquarters in Ireland.",
+                    "copyright": "Paulo Nunes dos Santos for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/15/business/00WATCHDOG-1-alpha/00WATCHDOG-1-alpha-thumbLarge-v4.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Helen Dixon, Ireland’s data protection commissioner, will soon gain vast new authority to investigate and fine an array of technology giants with regional headquarters in Ireland.",
+                    "copyright": "Paulo Nunes dos Santos for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/15/business/00WATCHDOG-1-alpha/00WATCHDOG-1-alpha-articleInline-v4.jpg",
+                    "format": "Normal",
+                    "height": 156,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Helen Dixon, Ireland’s data protection commissioner, will soon gain vast new authority to investigate and fine an array of technology giants with regional headquarters in Ireland.",
+                    "copyright": "Paulo Nunes dos Santos for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/15/business/00WATCHDOG-1-alpha/00WATCHDOG-1-alpha-mediumThreeByTwo210-v4.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Helen Dixon, Ireland’s data protection commissioner, will soon gain vast new authority to investigate and fine an array of technology giants with regional headquarters in Ireland.",
+                    "copyright": "Paulo Nunes dos Santos for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/15/business/00WATCHDOG-1-alpha/00WATCHDOG-1-alpha-superJumbo-v4.jpg",
+                    "format": "superJumbo",
+                    "height": 1686,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Helen Dixon, Ireland’s data protection commissioner, will soon gain vast new authority to investigate and fine an array of technology giants with regional headquarters in Ireland.",
+                    "copyright": "Paulo Nunes dos Santos for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2GjRTaN"
+        },
+        {
+            "section": "Arts",
+            "subsection": "",
+            "title": "Assassin’s Creed Has a New Mission: Working in the Classroom",
+            "abstract": "The long-running historical video game franchise has debuted an educational mode for its latest release, set in Ptolemaic Egypt.",
+            "url": "https://www.nytimes.com/2018/05/16/arts/assassins-creed-origins-education.html",
+            "byline": "By JUSTIN PORTER",
+            "item_type": "Article",
+            "updated_date": "2018-05-16T13:10:41-04:00",
+            "created_date": "2018-05-16T05:00:07-04:00",
+            "published_date": "2018-05-16T05:00:07-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Computer and Video Games",
+                "History (Academic Subject)",
+                "Education (K-12)",
+                "Assassin's Creed: Origins (Video Game)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/arts/17assassinscreed1/17assassinscreed1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A view of ancient Alexandria as seen in the Discovery Tour mode of Assassin&rsquo;s Creed: Origins.",
+                    "copyright": "Ubisoft"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/arts/17assassinscreed1/17assassinscreed1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A view of ancient Alexandria as seen in the Discovery Tour mode of Assassin&rsquo;s Creed: Origins.",
+                    "copyright": "Ubisoft"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/arts/17assassinscreed1/17assassinscreed1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 107,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A view of ancient Alexandria as seen in the Discovery Tour mode of Assassin&rsquo;s Creed: Origins.",
+                    "copyright": "Ubisoft"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/arts/17assassinscreed1/17assassinscreed1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A view of ancient Alexandria as seen in the Discovery Tour mode of Assassin&rsquo;s Creed: Origins.",
+                    "copyright": "Ubisoft"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/05/17/arts/17assassinscreed1/17assassinscreed1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1157,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A view of ancient Alexandria as seen in the Discovery Tour mode of Assassin&rsquo;s Creed: Origins.",
+                    "copyright": "Ubisoft"
+                }
+            ],
+            "short_url": "https://nyti.ms/2GjRPb3"
+        }
+    ]
+}
