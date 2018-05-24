@@ -8,7 +8,8 @@ import { bindActionCreators } from 'redux';
 import { loadNews } from '../actions/newsActions';
 import NewsFeed from '../components/NewsFeed';
 
-import { reshapeNewsData } from '../util/dataTransformations';
+// import { reshapeNewsData } from '../util/dataTransformations';
+import { allNewsSelector } from '../selectors/newsSelectors';
 
 /**
  * Map 'State to Props'
@@ -16,7 +17,7 @@ import { reshapeNewsData } from '../util/dataTransformations';
  */
 
 const mapStateToProps = state => ({
-    news: reshapeNewsData(state.news)
+    news: allNewsSelector(state)
 });
 
 /**
