@@ -26,3 +26,23 @@ export const reshapeNewsData = news => (
             url
         })) 
 );
+
+/**
+ * Method: filterNewsBySearchTerm
+ * 뉴스를 필터링하는 함수
+ */
+
+export const filterNewsBySearchTerm = (newsItems, searchTerm) => {
+
+    // 검색어가 입력되지 않은 경우, 빈 목록을 리턴한다.
+    if(searchTerm.length === 0) {
+        return [];
+    }
+
+    // 기사 내용 또는 필자 또는 제목에 검색어가 포함된 기사들을 리턴한다.
+    return newsItems.filter(({ description, author, title }) => (
+        description.toLowerCase().indexOf(searchTerm) > -1 ||
+        author.toLowerCase().indexOf(searchTerm) > -1 ||
+        title.toLowerCase().indexOf(searchTerm) > -1
+    ));
+};
