@@ -29,6 +29,24 @@ export default class NewsFeed extends Component {
         // Modal Open : this 컨텍스트를 이벤트 리스너에 바인딩
         this.onModalOpen = this.onModalOpen.bind(this);
         this.onModalClose = this.onModalClose.bind(this);
+
+        this.refresh = this.refresh.bind(this);
+    }
+
+    componentWillMount() {
+        this.refresh();
+    }
+
+    componentWillReceiveProps(nextProps) {
+        this.setState({
+            dataSource: this.state.dataSource.cloneWithRows(nextProps.news)
+        });
+    }
+
+    refresh() {
+        if(this.props.loadNews) {
+            this.props.loadNews();
+        }
     }
 
     renderModal() {
@@ -96,7 +114,8 @@ export default class NewsFeed extends Component {
 
 NewsFeed.propTypes = {
     news: PropTypes.arrayOf(PropTypes.object),
-    listStyles: View.propTypes.style
+    listStyles: View.propTypes.style,
+    loadNews: PropTypes.func
 };
 
 /**
@@ -120,27 +139,27 @@ const styles = StyleSheet.create({
     }
 });
 
-NewsFeed.defaultProps = {
-    news: [
-        {
-            title: 'React Native 1',
-            imageUrl: 'http://ichef.bbci.co.uk/news/976/cpsprodpb/120D1/production/_98073937_fifa.jpg',
-            description: 'Description 1',
-            date: new Date(),
-            author: 'Facebook',
-            location: 'Menlo Park, Califonia',
-            url: 'https://facebook.github.io/react-native'
+// NewsFeed.defaultProps = {
+//     news: [
+//         {
+//             title: 'React Native 1',
+//             imageUrl: 'http://ichef.bbci.co.uk/news/976/cpsprodpb/120D1/production/_98073937_fifa.jpg',
+//             description: 'Description 1',
+//             date: new Date(),
+//             author: 'Facebook',
+//             location: 'Menlo Park, Califonia',
+//             url: 'https://facebook.github.io/react-native'
 
-        },
-        {
-            title: 'React Native 2',
-            imageUrl: 'http://ichef.bbci.co.uk/news/976/cpsprodpb/120D1/production/_98073937_fifa.jpg',
-            description: 'Description 1',
-            date: new Date(),
-            author: 'Facebook',
-            location: 'Menlo Park, Califonia',
-            url: 'https://www.daum.net'
+//         },
+//         {
+//             title: 'React Native 2',
+//             imageUrl: 'http://ichef.bbci.co.uk/news/976/cpsprodpb/120D1/production/_98073937_fifa.jpg',
+//             description: 'Description 1',
+//             date: new Date(),
+//             author: 'Facebook',
+//             location: 'Menlo Park, Califonia',
+//             url: 'https://www.daum.net'
 
-        }
-    ]
-};
+//         }
+//     ]
+// };
